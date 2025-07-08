@@ -1,11 +1,11 @@
-### PARCIAL 2 - Patrones de Diseño en Django
+## PARCIAL 2 - Patrones de Diseño en Django
 
 ---
 
-# Nombre: Cortez Reyes Adan
-# Curso: Segundo
-# Materia: Programación 2
-# Fecha: 07/07/2025
+### Nombre: Cortez Reyes Adan
+### Curso: Segundo
+### Materia: Programación 2
+### Fecha: 07/07/2025
 
 ---
 
@@ -25,7 +25,6 @@
 
 ---
 
-### Capturas del proyecto:
 ## Aplicación de los Patrones de Diseño
 
 A continuación se describe cómo se aplica cada patrón de diseño en uno de los métodos implementados en el sistema:
@@ -46,8 +45,17 @@ A continuación se describe cómo se aplica cada patrón de diseño en uno de lo
 
 ## Capturas de pantalla del proyecto:
 
-![Interfaz de registro](../PG2_Parcial2/media/interfaz_registro_panel.png)
-![Validación de Ingredientes](../PG2_Parcial2/media/validacion_panel.png)
-![API REST registro](../PG2_Parcial2/media/api_registro.png)
-![API REST validacion de ingredientes](../PG2_Parcial2/media/validacion_api.png)
-![API REST listado](../PG2_Parcial2/media/api_list.png)
+- Interfaz de registro desde el panel de administración:
+![Interfaz de registro](media/interfaz_registro_panel.png)
+
+- Validación de ingredientes desde el panel de administración:
+![Validación de Ingredientes](media/validacion_panel.png)
+
+- Listado de pedidos desde la API REST:
+![API REST listado](media/api_list.png)
+
+- Registro de pedidos desde la API REST:
+![API REST registro](media/api_registro.png)
+
+- Validación de ingredientes desde la API REST:
+![API REST validacion de ingredientes](media/validacion_api.png)
